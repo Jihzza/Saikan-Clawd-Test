@@ -1,0 +1,288 @@
+TESTE
+Nome
+Época
+Modalidade
+Data Publicação
+Data Fecho
+Teste Online IV - 2024/2025
+2024-2025
+FUTEBOL
+03/01/2025 22:00
+03/01/2025 23:30
+RESPOSTAS
+1
+Pergunta
+Um jogador da equipa visitada, ao chutar a bola pela linha lateral para além de tentar cortar um ataque promissor da equipa 
+adversária, tenta atingir um espectador que estava a troçar dele. Como recomeça o jogo?
+Respostas
+Descrição
+Solução
+Lançamento de bola ao solo.
+Pontapé-livre direto.
+Pontapé-livre indireto.
+Lançamento de linha lateral.
+2
+Pergunta
+Após um remate à baliza, a bola acabou por bater no árbitro, e o GR mesmo assim, evitou que a bola viesse a entrar na sua 
+baliza, defendeu esta pela sua linha de baliza. Como recomeçar o jogo?
+Respostas
+Descrição
+Solução
+Pontapé- de baliza.
+Pontapé de canto.
+Bola ao solo.
+Pontapé- Livre indireto.
+3
+Pergunta
+Se no decorrer de um jogo, um elemento oficial ou um jogador, cometer uma infração, sujeita a aplicação de sanção disciplinar, 
+qual deve ser a mesma?
+Respostas
+Descrição
+Solução
+Aviso ou advertência.
+Expulsão.
+Depende da infração.
+Para jogadores a exibição de CA ou CV para elemento oficial CV.
+4
+Pergunta
+Um jogador cometeu uma infração passível de cartão vermelho. Contudo o árbitro não se apercebeu, ao invés do AA1. O jogo 
+foi reiniciado após o incidente sem que o árbitro tenha agido em conformidade. Posteriormente pode expulsar o infrator?
+Respostas
+Descrição
+Solução
+Não o poderá fazer em virtude do jogo ter recomeçado.
+Não pode agir, pois não viu a infração.
+Só pode expulsar o jogador se interrompeu o jogo num espaço de três segundo.
+Poderá fazê-lo após a informação do AA.
+5
+Pergunta
+O árbitro está junto ao túnel de acesso ao terreno de jogo, quando verifica que no aquecimento há um jogador que tem um 
+comportamento passível para a exibição de cartão amarelo. Qual a decisão a tomar.?
+Grelha de correção
+Teste Online IV - 2024/2025
+
+5
+Respostas
+Descrição
+Solução
+Não pode agir em virtude de estar na zona de acesso ao campo.
+O jogo ainda não teve inicio, não há lugar a qualquer menção do ocorrido.
+Não exibe o cartão mas relata o facto às entidades competentes.
+Exibe o cartão amarelo.
+6
+Pergunta
+Dois jogadores da mesma equipa têm um choque entre eles, pelo que foi necessária a assistência médica de imediato e o 
+árbitro foi rápido a solicitar a mesma. Qual o procedimento posterior?
+Respostas
+Descrição
+Solução
+Ambos os jogadores podem ser tratados no campo de jogo e não precisam deixá-lo.
+Ambos os jogadores após o tratamento devem saír do campo.
+Somente deve sair um jogador.
+Só deve sair o jogador que esteve mais tempo em tratamento.
+7
+Pergunta
+O árbitro assinalou PP no entanto o VAR recomenda uma revisão pois a falta foi fora da área. O que está determinado nestas 
+circunstâncias?
+Respostas
+Descrição
+Solução
+Uma 'revisão somente do VAR' geralmente é apropriada para decisões factuais, por exemplo, local de uma infração 
+(dentro/fora da área de grande penalidade), fora de jogo, bola fora de jogo etc. Apenas um 'sinal de TV' é necessário 
+para que o VAR diga ao árbitro o que os replays de TV mostram e o árbitro então emite o 'sinal de TV' 
+imediatamente antes de dar a decisão final.
+Uma 'revisão somente do VAR' geralmente é apropriada para decisões factuais, por exemplo, local de uma infração 
+(dentro/fora da área de grande penalidade), fora de jogo, bola fora de jogo etc. Neste caso o árbitro deve dirigir-se 
+de imediato à zona de revisão.
+Trata-se de uma situação que o VAR não deve aconselhar qualquer decisão pois só o árbitro pode agir.
+O protocolo não permite verificar esta situação a menos que tal viesse a ocorrer durante o prolongamento de uma 
+das partes do jogo.
+8
+Pergunta
+Um elemento oficial de uma equipa, descontente com a decisão do árbitro, pontapeou uma garrafa para dentro do terreno de 
+jogo. O árbitro não conseguiu identificar quem tomou tal atitude, tal como o seu AA que estava mais perto do local que motivou 
+a situação. O que decidir?
+Respostas
+Descrição
+Solução
+Arremessar ou chutar um objeto deliberadamente para o campo de jogo é punido com advertência (ca, ). O treinador 
+presente na área técnica receberá a sanção – como a pessoa responsável pelos outros oficiais da equipa.
+Arremessar ou chutar um objeto deliberadamente para o campo de jogo é punido com expulsão (cartão vermelho, ). 
+O treinador presente na área técnica receberá a sanção – como a pessoa responsável pelos outros oficiais da 
+equipa.
+Arremessar ou chutar um objeto deliberadamente para o campo de jogo é punido com expulsão (cartão vermelho, ). 
+Não existindo a possibilidade de identificar o autor, deve ser um dos elementos do banco expulso( suplentes caso 
+existam) ou outro qualquer elemento.
+Nestes casos não há lugar a punição.
+9
+Pergunta
+O árbitro apercebeu-se que um jogador utiliza uma jóia não autorizada. O que fazer nestes casos?
+Respostas
+Descrição
+Solução
+O árbitro deve ordenar que o jogador remova a joia. Um jogador que não puder ou se recusar a obedecer ou usar a 
+joia novamente deve deixar o campo de jogo na próxima interrupção e será advertido (cartão amarelo).
+Interrompe o jogo e adverte o jogador.
+Deve ordenar a saída imediata do jogador e antes exibe o cartão amarelo.
+Como o jogo tinha sido iniciado já nada poderá impedir o jogador de continuar com a joia.
+Grelha de correção
+Teste Online IV - 2024/2025
+
+9
+10
+Pergunta
+Não é permitido executar um pontapé-livre:
+Respostas
+Descrição
+Solução
+Um pontapé-livre executado levantando a bola com um pé ou com os dois pés simultaneamente. 
+Fazer fintas na execução de um pontapé-livre para confundir os adversários é permitido e faz parte do futebol.
+Quando o jogador pontapeia a bola deliberadamente contra um adversário para poder em seguida continuar a jogá-
+la – sem que o faça por imprudência, negligência ou com força excessiva.
+Quando se tratar de pontapés-livres indiretos a favor da equipa atacante por uma infração cometida dentro da área 
+de baliza adversária, estes são executados em qualquer ponto da área.
+11
+Pergunta
+Quando se utiliza o termo “Vantagem”, referimo-nos ao:
+Respostas
+Descrição
+Solução
+Permitir que o jogo continue quando é cometida uma infração, e a equipa que cometeu a infração beneficiará da 
+vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de 
+alguns segundos.
+Permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da 
+vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de 
+alguns segundos.
+Permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da 
+vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento.
+Permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da 
+vantagem, e não deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de 
+alguns segundos.
+12
+Pergunta
+Sobre a função do guarda-redes, escolha a opção correta:
+Respostas
+Descrição
+Solução
+Fora da sua própria área de penálti, o guarda-redes não está sujeito às mesmas restrições que os restantes 
+jogadores, no que diz respeito ao contacto da bola com as mãos.
+O guarda-redes na sua área de penalti, só poderá jogar a bola com as mãos.
+Se o guarda-redes tocar a bola com a mão dentro da sua própria área de penálti quando não está autorizado a fazê-
+lo, é concedido um pontapé-livre indireto à equipa adversária e será sempre advertido.
+Se o guarda-redes tocar a bola com a mão dentro da sua própria área de penálti quando não está autorizado a fazê-
+lo, é concedido um pontapé-livre indireto à equipa adversária, não havendo lugar a qualquer sanção disciplinar.
+13
+Pergunta
+Após a bola sair pela linha lateral, foi solicitada uma substituição de um jogador da equipa visitada. Contudo, quando o jogador 
+suplente se preparava para entrar, o jogador que era substituído informou o árbitro que não ia sair. O que decidir?
+Respostas
+Descrição
+Solução
+Adverte o jogador.
+Dá o jogo por concluído.
+Dá continuidade ao jogo.
+Só recomeça depois de normalizada a substituição.
+14
+Pergunta
+Um jogador lesionou-se após ter sofrido uma falta o que levou a ser avaliado pelo médico no terreno de jogo. O jogador 
+recuperou e sente condições para continuar. Este jogador pode executar o pontapé- livre?
+Grelha de correção
+Teste Online IV - 2024/2025
+
+14
+Respostas
+Descrição
+Solução
+O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o 
+adversário foi advertido ou expulso e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador 
+deverá abandonar o terreno de jogo.
+O jogador não pode permanecer no terreno de jogo em qualquer das circunstâncias.
+O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o 
+adversário foi advertido e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá 
+abandonar o campo de jogo.
+O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o 
+adversário foi expulso e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá 
+abandonar o campo de jogo.
+15
+Pergunta
+Na marcação de um pontapé de penalti:
+Respostas
+Descrição
+Solução
+A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a “invasão” dos jogadores de campo na 
+marcação será penalizada apenas se os jogadores estiverem sobre a linha limite da área.
+A bola deve estar imóvel e perto da marca de penálti, e a “invasão” dos jogadores de campo na marcação será 
+penalizada apenas se tiver impacto.
+A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a “invasão” dos jogadores de campo na 
+marcação será penalizada apenas se houver protestos dos jogadores.
+A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a “invasão” dos jogadores de campo na 
+marcação será penalizada apenas se tiver impacto.
+16
+Pergunta
+De acordo com a Lei 4 e no que concerne ao equipamento, opte pela resposta correta:
+Respostas
+Descrição
+Solução
+Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, deixam de ser uma parte obrigatória do 
+equipamento.
+Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte 
+obrigatória do equipamento.
+O árbitro é responsável pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do 
+equipamento.
+Os árbitros assistentes e quarto árbitro responsáveis pelo tamanho e adequação das caneleiras, que continuam a 
+ser uma parte obrigatória do equipamento.
+17
+Pergunta
+Foi efetuada uma substituição durante o intervalo, o procedimento deve ser concluído antes do recomeço do jogo. Mas o árbitro 
+não for informado, o que pode acontecer?
+Respostas
+Descrição
+Solução
+O suplente não pode continuar a jogar, volta a sair para o procedimento da substituição.
+O suplente pode continuar a jogar, não é tomada qualquer medida disciplinar e a questão é reportada às autoridades 
+competentes.
+O suplente pode continuar a jogar, é advertido e o jogo recomeça com uma bola ao solo.
+O suplente pode continuar a jogar, é advertido e o jogo recomeça com um pontapé-livre indireto.
+18
+Pergunta
+Um jogador demora a sair do campo de jogo quando é substituído. O mesmo jogador já foi advertido por outra infração. Qual é 
+a decisão correta?
+Respostas
+Descrição
+Solução
+O árbitro exibe ao jogador um segundo cartão amarelo e um cartão vermelho. O jogador é expulso e não pode ser 
+substituído – a substituição não é consumada.
+O árbitro exibe ao jogador um segundo cartão amarelo e um cartão vermelho. O jogador é expulso e pode ser 
+substituído.
+O árbitro dá um aviso verbal ao jogador em questão.
+O árbitro exibe ao jogador o cartão vermelho. O jogador é expulso e pode ser substituído.
+Grelha de correção
+Teste Online IV - 2024/2025
+
+19
+Pergunta
+Um jogador da equipa A passou inadvertidamente a bola ao guarda-redes adversário quando aquele (GR) estava na sua área 
+de baliza por ocasião de um pontapé de canto. O referido guarda-redes agarrou a bola com a mão e passou a um seu colega de 
+equipa. Como agir?
+Respostas
+Descrição
+Solução
+Assinala pontapé-livre direto.
+Assinala pontapé-livre indireto.
+Efetua uma bola ao solo.
+Deixa prosseguir o jogo.
+20
+Pergunta
+Um jogador atacante sofre falta fora da área de penalti, mas acaba por cair na referida área. Como será o jogo reiniciado?
+Respostas
+Descrição
+Solução
+As infrações são penalizadas no ponto do terreno de jogo onde a infração ocorreu, mas nas áreas onde foi 
+consolidada, portanto, trata-se de um pontapé de penalti.
+As infrações são penalizadas no ponto do terreno de jogo onde a infração ocorreu, portanto, uma falta fora da área 
+de penalti é uma infração de pontapé- livre, mesmo que o jogador caia na área.
+Nestas circunstâncias deve o árbitro considerar uma falta do jogador atacante, por simulação dado que caiu no 
+interior da área.
+Nenhuma das hipóteses está correta.
+Grelha de correção
+Teste Online IV - 2024/2025
