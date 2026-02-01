@@ -8,3 +8,9 @@
 html {
   font-family: var(--font-inter);
 }
+
+/* Subtle selection styling */
+::selection {
+  background: rgb(244 244 245);
+  color: rgb(9 9 11);
+}
