@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+# If you later add client-side routing, Netlify may need this.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
