@@ -1,0 +1,41 @@
+import { Button } from "@/components/site/Button";
+import { Card } from "@/components/site/Card";
+import { Footer } from "@/components/site/Footer";
+import { Header } from "@/components/site/Header";
+import { VENTURES } from "@/lib/saikan-data";
+
+export default function VenturesPage() {
+  return (
+    <div>
+      <Header />
+      <main className="mx-auto max-w-6xl px-6 py-16">
+        <h1 className="text-3xl font-semibold tracking-tight text-zinc-50">Ventures</h1>
+        <p className="mt-3 max-w-2xl text-zinc-400">
+          A portfolio of products and experiments — built with a focus on execution and sustainable
+          value.
+        </p>
+
+        <div className="mt-10 grid gap-4 md:grid-cols-2">
+          {VENTURES.map((v) => (
+            <Card
+              key={v.slug}
+              href={`/ventures/${v.slug}/`}
+              title={v.name}
+              subtitle={v.tagline}
+              image={v.image}
+            >
+              <span className="text-zinc-400">{v.summary}</span>
+            </Card>
+          ))}
+        </div>
+
+        <div className="mt-10">
+          <Button href="/contact/" variant="secondary">
+            Propose a venture
+          </Button>
+        </div>
+      </main>
+      <Footer />
+    </div>
+  );
+}

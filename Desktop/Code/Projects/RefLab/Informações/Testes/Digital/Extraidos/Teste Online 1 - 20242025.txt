@@ -1,0 +1,326 @@
+TESTE
+Nome
+Época
+Modalidade
+Data Publicação
+Data Fecho
+Teste Online I - 2024/2025
+2024-2025
+FUTEBOL
+04/10/2024 22:00
+04/10/2024 23:30
+RESPOSTAS
+1
+Pergunta
+No decorrer do jogo, um jogador suplente entrou na sala de operação de vídeo (VOR). O árbitro é informado quando o jogo foi 
+interrompido. Perante tal situação qual o procedimento correto?
+Respostas
+Descrição
+Solução
+O suplente é expulso (mas não lhe é exibido o cartão vermelho), deve deixar a área técnica e pode ser substituído. 
+O número de substituições que a equipa tem ainda para fazer não é reduzido por esse facto.
+O suplente é expulso (exibição do cartão vermelho), deve deixar a área técnica e pode ser substituído. O número de 
+substituições que a equipa tem ainda para fazer não é reduzido por esse facto.
+O suplente é expulso (exibição do cartão vermelho), deve deixar a área técnica e não pode ser substituído. O 
+número de substituições que a equipa tem ainda para fazer não é reduzido por esse facto.
+O suplente é expulso (exibição do cartão vermelho), deve deixar a área técnica e não pode ser substituído. O 
+número de substituições que a equipa tem ainda para fazer é reduzido por esse facto.
+2
+Pergunta
+A bola saiu do terreno de jogo, um suplente (equipa A) chuta a bola para longe para retardar o lançamento de linha lateral pelos 
+adversários. O suplente já anteriormente tinha sido advertido por outra infração. Das opções seguintes qual a decisão mais 
+correta?
+Respostas
+Descrição
+Solução
+O árbitro exibe ao suplente um segundo cartão amarelo e o respetivo cartão vermelho. O suplente, pois, por isso é 
+expulso, deve abandonar a área técnica e pode ser substituído. O número de substituições que a equipa ainda tem 
+não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para o equipa B).
+O árbitro exibe ao suplente um segundo cartão amarelo e o respetivo cartão vermelho. O suplente, pois, por isso é 
+expulso, deve abandonar a área técnica e não pode ser substituído. O número de substituições que a equipa ainda 
+tem não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para o equipa A).
+O árbitro exibe ao suplente um segundo cartão amarelo e o respetivo cartão vermelho. O suplente, pois, por isso é 
+expulso, deve abandonar a área técnica e não pode ser substituído. O número de substituições que a equipa ainda 
+tem não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para o equipa B).
+O árbitro exibe ao suplente o cartão vermelho. O número de substituições que a equipa ainda tem não é reduzido. O 
+jogo é reiniciado com uma bola ao solo.
+3
+Pergunta
+Um jogador atrasa a saída do campo de jogo quando está sendo substituído. O mesmo jogador já foi advertido por outra 
+infração. Qual é a decisão correta?
+Respostas
+Descrição
+Solução
+O árbitro exibe ao jogador um segundo cartão amarelo e de seguida um cartão vermelho. O jogador é expulso e não 
+pode ser substituído – a substituição não é consumada.
+O árbitro exibe ao jogador um segundo cartão amarelo e de seguida um cartão vermelho. O jogador é expulso pode 
+ser substituído – a substituição não é consumada.
+O árbitro exibe ao jogador um segundo cartão amarelo e de seguida um cartão vermelho. O jogador é expulso e não 
+pode ser substituído – a substituição é consumada.
+O árbitro exibe ao jogador somente um cartão vermelho. O jogador é expulso e não pode ser substituído – a 
+substituição não é consumada.
+4
+Pergunta
+Antes que das fichas de jogo serem entregues, um jogador deu um soco num adversário (problemas na sequência de um jogo 
+anterior). Isto teve lugar no aquecimento pré-jogo e no interior do terreno de jogo. O quarto árbitro verificou a situação e 
+informou o árbitro. Qual a decisão?
+Respostas
+Descrição
+Solução
+O infrator não pode ser indicado na ficha de jogo ou jogar nesse jogo e é reportado à autoridade competente tal 
+situação. O número de jogadores e suplentes não é reduzido. Um cartão vermelho é exibido.
+O infrator não pode ser indicado na ficha de jogo ou jogar nesse jogo e é reportado à autoridade competente tal 
+situação. O número de jogadores e suplentes não é reduzido. Um cartão vermelho não é exibido.
+O infrator não pode ser indicado na ficha de jogo ou jogar nesse jogo e é reportado à autoridade competente tal 
+situação. O número de jogadores e suplentes é reduzido. Um cartão vermelho não é exibido.
+O infrator pode ser indicado na ficha de jogo ou jogar nesse jogo, mas é reportado à autoridade competente tal 
+situação. 
+Grelha de correção
+Teste Online I - 2024/2025
+
+5
+Pergunta
+Um espectador afeto à equipa visitada, entra no terreno de jogo, interfere com um jogador que corre com a bola e consegue 
+chutar a bola para longe. Qual é a decisão correta?
+Respostas
+Descrição
+Solução
+O árbitro deve parar o jogo e mandar retirar a pessoa. Depois disso, o jogo reinicia com uma bola ao solo para um 
+jogador da equipa que tocou a bola pela última vez antes do espectador chutar a bola.
+O árbitro deve parar o jogo e mandar retirar a pessoa. Depois disso, o jogo reinicia com uma bola ao solo no local 
+onde o espectador entrou em campo.
+O árbitro deve parar o jogo e mandar retirar a pessoa e recomeça o pojo com um PLI no local onde estava a bola.
+O árbitro deve parar o jogo e mandar e dar o jogo por concluído.
+6
+Pergunta
+Teve lugar uma substituição no final da 2ª parte e o início do prolongamento. O árbitro não é informado e só toma conta depois 
+que o prolongamento teve o seu início. Qual é o procedimento correto?
+Respostas
+Descrição
+Solução
+O suplente não pode continuar em jogo, mas nenhuma ação disciplinar é tomada e o assunto é relatado às 
+autoridades competentes.
+O suplente pode continuar em jogo, é advertido e deve ser efetuado o processo de substituição correto.
+O suplente pode continuar em jogo, nenhuma ação disciplinar é tomada e o assunto é relatado às autoridades 
+competentes.
+Nenhuma das hipóteses está correta.
+7
+Pergunta
+Logo depois do início da 2ªparte, o árbitro toma conhecimento que durante o intervalo um jogador trocou de lugar e a camisola 
+com o seu guarda-redes sem a autorização do árbitro. Qual é a decisão do árbitro?
+Respostas
+Descrição
+Solução
+O árbitro permite que o jogo continue. Nenhum jogador é advertido. O assunto é relatado após a partida às 
+autoridades apropriadas.
+O árbitro permite que o jogo continue. Mas ambos os jogadores serão advertidos. O assunto é relatado após a 
+partida às autoridades apropriadas.
+O árbitro permite que o jogo continue. O Guarda-Redes é advertido. O assunto é relatado após a partida às 
+autoridades apropriadas.
+O árbitro permite que o jogo continue. Trata-se de uma situação que não carece de qualquer intervenção ou reporte.
+8
+Pergunta
+Um elemento oficial de uma das equipas entra no campo de jogo quando a bola está em jogo e empurra um jogador da equipa 
+adversária. O árbitro apitou de imediato.  Qual é a decisão a tomar?
+Respostas
+Descrição
+Solução
+O elemento oficial deve ser advertido O jogo é reiniciado com uma bola ao solo.
+O elemento oficial deve ser expulso (cartão vermelho). O jogo é reiniciado com uma bola ao solo.
+O elemento oficial deve ser expulso (cartão vermelho). O jogo é reiniciado com um pontapé- livre indireto.
+O elemento oficial deve ser expulso (cartão vermelho). O jogo é reiniciado com um pontapé- livre direto, ou pontapé 
+de penálti se a infração ocorrer dentro da área de penálti do infrator.
+9
+Pergunta
+Um jogador troca de lugar com o seu guarda-redes pouco antes do fim do jogo sem a permissão do árbitro quando a bola está 
+em jogo. Qual é a decisão do árbitro?
+Respostas
+Descrição
+Solução
+O árbitro permite que o jogo continue se o jogador tiver trocado de camisola.  Depois ambos os jogadores devem ser 
+advertidos (cartão amarelo) quando o jogo estiver sido interrompido.
+O árbitro permite que o jogo continue se o jogador tiver trocado de camisola.  Depois ambos os jogadores devem ser 
+avisados quando o jogo estiver sido interrompido.
+O árbitro permite que o jogo continue se o jogador tiver trocado de camisola.  Depois ambos os jogadores devem ser 
+expulsos (cartão vermelho) quando o jogo estiver sido interrompido.
+O árbitro permite que o jogo continue, mas se o jogador que agora é guarda-redes tocar na bola, será assinalado um 
+pontapé de penálti.
+Grelha de correção
+Teste Online I - 2024/2025
+
+10
+Pergunta
+Um árbitro interrompe o jogo e adverte (cartão amarelo) um jogador que voltou a entrar em campo sem a sua autorização. 
+Como é reiniciado o jogo? 
+Respostas
+Descrição
+Solução
+Com um pontapé- livre indireto do local onde estava a bola quando o jogo foi interrompido.
+Com um pontapé- livre direto no local onde estava a bola quando o jogo foi interrompido 
+Com uma bola ao solo no local onde estava a bola no momento da interrupção.
+Com um pontapé- livre direto no local da interferência ou com um livre indireto do local onde estava a bola quando o 
+jogo foi interrompido (se não houve interferência).
+11
+Pergunta
+O árbitro foi nomeado para um jogo da Taça de Portugal (sénior), contudo verificou-se o atraso de uma das equipas. Assim, das 
+opções que se seguem escolha a correta:
+Respostas
+Descrição
+Solução
+Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a 
+FPF estiver devidamente informada do sucedido e se encontrarem preenchidas todas as condições para a 
+realização do jogo, o árbitro deve aguardar o tempo que entender razoável de acordo com as circunstâncias em 
+causa e atendendo ao interesse na respetiva realização.
+Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a 
+FPF estiver devidamente informada do sucedido e se encontrarem preenchidas todas as condições para a 
+realização do jogo, o árbitro deve aguardar um período de 30 minutos.
+Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a 
+FPF estiver devidamente informada do sucedido o jogo será realizado em data a combinar entre os clubes.
+Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável 
+(exemplo avaria de viatura), se a FPF estiver devidamente informada do sucedido e se encontrarem preenchidas 
+todas as condições para a realização do jogo, o árbitro deve aguardar 45 minutos, findo o qual se as equipas não 
+tiverem eme terreno de jogo, não haverá lugar à sua realização.
+12
+Pergunta
+Ainda no jogo da Taça de Portugal(sénior) quem pode ter acesso ao balneário da equipa de arbitragem?
+Respostas
+Descrição
+Solução
+Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho 
+das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Membros da 
+secção para a área não profissional do Conselho de Arbitragem e da Direção da FPF; d) Elementos das forças de 
+segurança.
+Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho 
+das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Membros da 
+secção para a área não profissional do Conselho de Arbitragem; d) Elementos das forças de segurança.
+Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho 
+das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Membros da 
+secção para a área não profissional do Conselho de Arbitragem; d) Elementos das forças de segurança e e) -
+Membros da Secção de Classificações.
+Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho 
+das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Observador do 
+árbitro; d) Elementos das forças de segurança.
+13
+Pergunta
+Sobre a hidratação nos jogos do campeonato de Portugal, haverá a considerar:
+Grelha de correção
+Teste Online I - 2024/2025
+
+13
+Respostas
+Descrição
+Solução
+É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 
+30º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, com a 
+autorização do árbitro, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo mediante 
+indicação do árbitro; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de 
+compensação de cada parte. 
+É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 
+35º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, com a 
+autorização do árbitro, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo mediante 
+indicação do árbitro; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de 
+compensação de cada parte.
+É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 
+32º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, com a 
+autorização do árbitro, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo mediante 
+indicação do árbitro; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de 
+compensação de cada parte.
+É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 
+32º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, na reunião de 
+organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo; c) terá duração de até 1 minuto e a respetiva 
+duração será adicionada ao tempo de compensação de cada parte.
+14
+Pergunta
+O jogo é reiniciado com uma bola ao solo para a equipa A e um jogador pontapeou a bola antes que ela tivesse tocado no solo. 
+Isso é permitido?
+Respostas
+Descrição
+Solução
+Não, porque a bola não está em jogo até tocar no solo. Se a bola tocar no jogador primeiro (antes de tocar no solo), 
+o árbitro efetuou novamente a bola ao solo para a equipa A.
+Sim, porque a bola está em jogo logo após o seu lançamento pelo árbitro.
+Não, porque a bola não está em jogo até tocar no solo. Se a bola tocar no jogador primeiro (antes de tocar no solo), 
+o árbitro efetuou novamente a bola ao solo para a equipa B.
+Não, porque a bola não está em jogo até tocar no solo. Se a bola tocar no jogador primeiro (antes de tocar no solo), 
+o árbitro assinala um pontapé-livre indireto.
+15
+Pergunta
+Após um pontapé de baliza, o guarda-redes executou o referido pontapé. A bola toca o árbitro fora da área de pênalti, 
+permanece no campo de jogo e volta em direção à baliza. O guarda-redes segura a bola para evitar que ela entre na sua baliza. 
+Qual é a decisão correta?
+Respostas
+Descrição
+Solução
+O árbitro assinala pontapé-livre indireto.
+O árbitro ordena uma bola ao solo.
+O árbitro deixa seguir.
+Assinala pontapé-livre indireto e adverte o guarda-redes.
+16
+Pergunta
+O árbitro pode autorizar o pontapé saída após a obtenção de um golo e os jogadores da equipa que marcou estão fora de 
+campo comemorando ainda o golo?
+Respostas
+Descrição
+Solução
+Não. A Lei 8 afirma claramente que "para cada pontapé inicial, todos os jogadores, exceto o jogador que executa o 
+pontapé inicial, devem estar em sua própria metade do campo de jogo".
+Sim. A Lei 8 afirma claramente que "para cada pontapé inicial, todos os jogadores, exceto o jogador que executa o 
+pontapé inicial, devem estar em sua própria metade do campo de jogo", no caso eles estão fora do terreno de jogo.
+Sim, nestas circunstâncias de comemoração de golo é possível.
+Todas as hipóteses estão erradas.
+17
+Pergunta
+Um jogador da equipa atacante tem posse da bola na área de penalti da equipa defensora. O jogo é interrompido pelo árbitro 
+(nenhuma infração cometida). Como o jogo é reiniciado?  
+Grelha de correção
+Teste Online I - 2024/2025
+
+17
+Respostas
+Descrição
+Solução
+O árbitro reiniciará o jogo com uma bola ao solo para o guarda-redes da equipa defensora.
+O árbitro reiniciará o jogo com uma bola ao solo para a equipa atacante.
+O árbitro deixa seguir porque foi acidental.
+Opta por um livre indireto a favorecer a equipa defensora.
+18
+Pergunta
+Vai ter lugar uma bola ao solo, um jogador, que não é o jogador para quem a bola é disputada, chega mais perto do que os 4 
+metros necessários da bola quando ela está sendo disputada. Qual é a decisão do árbitro?  
+Respostas
+Descrição
+Solução
+O árbitro exigirá que o jogador recue a distância necessária e avisa que não retoma o jogo se ele voltar a aproximar-
+se.
+O árbitro perante tal deve advertir de imediato o infrator (cartão amarelo, CA).
+O árbitro expulso o jogador que se aproximou indevidamente do local.
+O árbitro exigirá que o jogador recue a distância necessária; se o jogador não o fizer, será advertido (cartão amarelo, 
+CA).
+19
+Pergunta
+A 1ª parte do jogo está prestes a concluir-se com o resultado em 0-0. Não teve qualquer paragem a merecer uma contagem de 
+tempo adicional nos primeiros 45 minutos do jogo. Eis que aos 44 minutos um jogador da equipa B fica lesionado com 
+gravidade, após uma queda, devido ao estado escorregadio do terreno de jogo. Passados 8 minutos o jogo foi retomado. O 
+árbitro solicitou ao AA1 a sua opinião do tempo adicional a conceder. Das opções aqui referidas, escolha a mais correta para a 
+tomada de decisão do árbitro:
+Respostas
+Descrição
+Solução
+Jogar mais 9 minutos.
+Jogar mais 8 minutos.
+Jogar mais 1 minuto.
+Jogar mais 10 minutos.
+20
+Pergunta
+O jogador da equipa defensora no interior da sua área de penálti, com o pé passou a bola ao seu guarda-redes, o árbitro estava 
+distraído, solicitou a colaboração do AA2 que estava perto do local sem, contudo, interromper o mesmo. Qual a informação do 
+AA para uma correta leitura de jogo por parte do árbitro?
+Respostas
+Descrição
+Solução
+Deixar seguir o jogo.
+Devido à distração o melhor é uma bola ao solo.
+Adverte o jogador defensor.
+Adverte ambos os jogadores.
+Grelha de correção
+Teste Online I - 2024/2025
