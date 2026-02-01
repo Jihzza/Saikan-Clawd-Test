@@ -12,7 +12,13 @@ export default function ContactPage() {
         </p>
 
         {/* Netlify Forms: works on deploy when hosted on Netlify */}
-        <form className="mt-10 grid gap-4" name="contact" method="POST" data-netlify="true">
+        <form
+          className="mt-10 grid gap-4"
+          name="contact"
+          method="POST"
+          action="/contact/success/"
+          data-netlify="true"
+        >
           <input type="hidden" name="form-name" value="contact" />
 
           <label className="grid gap-2">

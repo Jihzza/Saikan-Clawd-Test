@@ -8,3 +8,9 @@
 html {
   font-family: var(--font-inter);
 }
+
+/* Subtle selection styling (adds “soul” without breaking the black/white vibe) */
+::selection {
+  background: rgb(24 24 27);
+  color: white;
+}
