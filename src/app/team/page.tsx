@@ -1,4 +1,4 @@
-import { Card } from "@/components/site/Card";
+import { MiniCard } from "@/components/site/MiniCard";
 import { Footer } from "@/components/site/Footer";
 import { Header } from "@/components/site/Header";
 import { TEAM } from "@/lib/saikan-data";
@@ -16,7 +16,7 @@ export default function TeamPage() {
 
         <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {TEAM.map((m) => (
-            <Card
+            <MiniCard
               key={m.slug}
               href={`/team/${m.slug}/`}
               title={m.name}
