@@ -1,4 +1,5 @@
-import Link from "next/link";
+import { Button } from "@/components/site/Button";
+import { Card } from "@/components/site/Card";
 import { Footer } from "@/components/site/Footer";
 import { Header } from "@/components/site/Header";
 import { Section } from "@/components/site/Section";
@@ -16,25 +17,19 @@ export default function HomePage() {
             HOLDING COMPANY
           </p>
           <h1 className="max-w-3xl text-4xl font-semibold tracking-tight sm:text-5xl">
-            Build profitable companies. Turn ideas into real products.
+            Quietly serious. Built to turn ideas into real products.
           </h1>
           <p className="mt-5 max-w-2xl text-base leading-7 text-zinc-600">
             {MISSION}
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-            <Link
-              href="/contact/"
-              className="inline-flex items-center justify-center rounded-full bg-zinc-950 px-6 py-3 text-sm font-semibold text-white hover:bg-zinc-800"
-            >
+            <Button href="/contact/" variant="primary">
               Contact
-            </Link>
-            <Link
-              href="/ventures/"
-              className="inline-flex items-center justify-center rounded-full border border-zinc-300 px-6 py-3 text-sm font-semibold text-zinc-950 hover:border-zinc-950"
-            >
+            </Button>
+            <Button href="/ventures/" variant="secondary">
               Explore ventures
-            </Link>
+            </Button>
           </div>
         </div>
       </main>
@@ -42,11 +37,11 @@ export default function HomePage() {
       {/* About */}
       <Section title="About" eyebrow="SAIKAN">
         <div className="grid gap-8 md:grid-cols-2">
-          <p className="text-zinc-700 leading-7">
-            Saikan is designed to be a quiet force behind strong products — bringing tools,
-            resources, and manpower to founders who want to ship.
+          <p className="leading-7 text-zinc-700">
+            Saikan is a holding company designed to produce profitable companies and support
+            entrepreneurs with tools, resources, and manpower — turning ideas into products.
           </p>
-          <div className="rounded-2xl border border-zinc-200 p-6">
+          <div className="rounded-2xl border border-zinc-200 bg-white p-6">
             <h3 className="text-sm font-semibold">Mission</h3>
             <p className="mt-2 text-sm leading-7 text-zinc-700">{MISSION}</p>
           </div>
@@ -57,7 +52,7 @@ export default function HomePage() {
       <Section title="What we do" eyebrow="CAPABILITIES">
         <div className="grid gap-4 md:grid-cols-2">
           {VALUES.map((v) => (
-            <div key={v.title} className="rounded-2xl border border-zinc-200 p-6">
+            <div key={v.title} className="rounded-2xl border border-zinc-200 bg-white p-6">
               <h3 className="text-sm font-semibold">{v.title}</h3>
               <p className="mt-2 text-sm leading-7 text-zinc-700">{v.body}</p>
             </div>
@@ -69,23 +64,13 @@ export default function HomePage() {
       <Section title="Ventures" eyebrow="PORTFOLIO">
         <div className="grid gap-4 md:grid-cols-2">
           {VENTURES.map((v) => (
-            <Link
-              key={v.slug}
-              href={`/ventures/${v.slug}/`}
-              className="rounded-2xl border border-zinc-200 p-6 hover:border-zinc-950"
-            >
-              <h3 className="text-sm font-semibold">{v.name}</h3>
-              <p className="mt-2 text-sm text-zinc-600">{v.tagline}</p>
-            </Link>
+            <Card key={v.slug} href={`/ventures/${v.slug}/`} title={v.name} subtitle={v.tagline} />
           ))}
         </div>
         <div className="mt-8">
-          <Link
-            href="/ventures/"
-            className="text-sm font-semibold underline underline-offset-4"
-          >
+          <Button href="/ventures/" variant="secondary" className="px-5 py-2">
             View all ventures
-          </Link>
+          </Button>
         </div>
       </Section>
 
@@ -93,23 +78,13 @@ export default function HomePage() {
       <Section title="Team" eyebrow="PEOPLE">
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {TEAM.map((m) => (
-            <Link
-              key={m.slug}
-              href={`/team/${m.slug}/`}
-              className="rounded-2xl border border-zinc-200 p-6 hover:border-zinc-950"
-            >
-              <h3 className="text-sm font-semibold">{m.name}</h3>
-              <p className="mt-2 text-sm text-zinc-600">{m.title}</p>
-            </Link>
+            <Card key={m.slug} href={`/team/${m.slug}/`} title={m.name} subtitle={m.title} />
           ))}
         </div>
         <div className="mt-8">
-          <Link
-            href="/team/"
-            className="text-sm font-semibold underline underline-offset-4"
-          >
+          <Button href="/team/" variant="secondary" className="px-5 py-2">
             View the full team
-          </Link>
+          </Button>
         </div>
       </Section>
 

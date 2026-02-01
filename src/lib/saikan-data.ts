@@ -13,24 +13,24 @@ export type TeamMember = {
 };
 
 export const MISSION =
-  "Saikan builds profitable ventures and helps entrepreneurs turn ideas into real products.";
+  "Saikan is a holding company focused on producing profitable companies and helping entrepreneurs turn ideas into real products.";
 
 export const VALUES: Array<{ title: string; body: string }> = [
   {
     title: "Execution",
-    body: "We value momentum, craft, and shipping — turning ideas into working products.",
-  },
-  {
-    title: "Ownership",
-    body: "We take responsibility end-to-end and optimize for long-term compounding.",
-  },
-  {
-    title: "Integrity",
-    body: "We communicate clearly, avoid hype, and do what we say we’ll do.",
+    body: "We turn ambiguity into shipped products — with speed, discipline, and attention to detail.",
   },
   {
     title: "Leverage",
-    body: "We build systems, tools, and teams that create outsized outcomes.",
+    body: "We build tools, systems, and teams that compound — not one-off wins.",
+  },
+  {
+    title: "Integrity",
+    body: "We communicate clearly, avoid hype, and focus on what is true and measurable.",
+  },
+  {
+    title: "Ownership",
+    body: "We take responsibility end-to-end and do what we say we will do.",
   },
 ];
 

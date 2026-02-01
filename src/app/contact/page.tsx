@@ -8,16 +8,11 @@ export default function ContactPage() {
       <main className="mx-auto max-w-3xl px-6 py-16">
         <h1 className="text-3xl font-semibold tracking-tight">Contact</h1>
         <p className="mt-3 text-zinc-600">
-          Send a message and we’ll get back to you. (No hype. No spam.)
+          Send a message and we’ll get back to you.
         </p>
 
         {/* Netlify Forms: works on deploy when hosted on Netlify */}
-        <form
-          className="mt-10 grid gap-4"
-          name="contact"
-          method="POST"
-          data-netlify="true"
-        >
+        <form className="mt-10 grid gap-4" name="contact" method="POST" data-netlify="true">
           <input type="hidden" name="form-name" value="contact" />
 
           <label className="grid gap-2">
@@ -55,6 +50,8 @@ export default function ContactPage() {
           >
             Send
           </button>
+
+          <p className="text-xs text-zinc-500">No hype. No spam.</p>
         </form>
       </main>
       <Footer />
