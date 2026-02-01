@@ -16,7 +16,7 @@ export default function HomePage() {
 
       {/* Hero */}
       <main className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_10%,rgba(0,0,0,0.06),transparent_55%),radial-gradient(circle_at_70%_30%,rgba(0,0,0,0.04),transparent_60%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_10%,rgba(255,255,255,0.10),transparent_55%),radial-gradient(circle_at_70%_30%,rgba(255,255,255,0.06),transparent_60%)]" />
         <Noise />
 
         <Container>
@@ -24,11 +24,11 @@ export default function HomePage() {
             <p className="mb-3 text-xs font-semibold tracking-widest text-zinc-500">
               HOLDING COMPANY
             </p>
-            <h1 className="max-w-3xl text-4xl font-semibold tracking-tight sm:text-6xl">
+            <h1 className="max-w-3xl text-4xl font-semibold tracking-tight text-zinc-50 sm:text-6xl">
               Build profitable companies.
-              <span className="block text-zinc-500">Turn ideas into real products.</span>
+              <span className="block text-zinc-400">Turn ideas into real products.</span>
             </h1>
-            <p className="mt-6 max-w-2xl text-base leading-7 text-zinc-600">{MISSION}</p>
+            <p className="mt-6 max-w-2xl text-base leading-7 text-zinc-300">{MISSION}</p>
 
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <Button href="/contact/" variant="primary">
@@ -53,13 +53,13 @@ export default function HomePage() {
       {/* About */}
       <Section title="About" eyebrow="SAIKAN">
         <div className="grid gap-8 md:grid-cols-2">
-          <p className="leading-7 text-zinc-700">
+          <p className="leading-7 text-zinc-300">
             Saikan is designed to be a quiet force behind strong products — bringing tools,
             resources, and manpower to founders who want to ship.
           </p>
-          <div className="rounded-2xl border border-zinc-200 bg-white p-6">
-            <h3 className="text-sm font-semibold">How we work</h3>
-            <p className="mt-2 text-sm leading-7 text-zinc-700">
+          <div className="rounded-2xl border border-zinc-800/70 bg-zinc-950/40 p-6">
+            <h3 className="text-sm font-semibold text-zinc-50">How we work</h3>
+            <p className="mt-2 text-sm leading-7 text-zinc-300">
               Small teams. Clear ownership. Tight feedback loops. We prefer calm velocity over
               loud ambition.
             </p>
@@ -71,9 +71,12 @@ export default function HomePage() {
       <Section title="What we do" eyebrow="CAPABILITIES">
         <div className="grid gap-4 md:grid-cols-2">
           {VALUES.map((v) => (
-            <div key={v.title} className="rounded-2xl border border-zinc-200 bg-white p-6">
-              <h3 className="text-sm font-semibold">{v.title}</h3>
-              <p className="mt-2 text-sm leading-7 text-zinc-700">{v.body}</p>
+            <div
+              key={v.title}
+              className="rounded-2xl border border-zinc-800/70 bg-zinc-950/40 p-6"
+            >
+              <h3 className="text-sm font-semibold text-zinc-50">{v.title}</h3>
+              <p className="mt-2 text-sm leading-7 text-zinc-300">{v.body}</p>
             </div>
           ))}
         </div>
@@ -83,8 +86,15 @@ export default function HomePage() {
       <Section title="Ventures" eyebrow="PORTFOLIO">
         <div className="grid gap-4 md:grid-cols-2">
           {VENTURES.map((v) => (
-            <Card key={v.slug} href={`/ventures/${v.slug}/`} title={v.name} subtitle={v.tagline}>
-              <span className="text-zinc-600">{v.summary}</span>
+            <Card
+              key={v.slug}
+              href={`/ventures/${v.slug}/`}
+              title={v.name}
+              subtitle={v.tagline}
+              image={v.image}
+              variant="venture"
+            >
+              <span className="text-zinc-400">{v.summary}</span>
             </Card>
           ))}
         </div>
@@ -99,7 +109,14 @@ export default function HomePage() {
       <Section title="Team" eyebrow="PEOPLE">
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {TEAM.map((m) => (
-            <Card key={m.slug} href={`/team/${m.slug}/`} title={m.name} subtitle={m.title} />
+            <Card
+              key={m.slug}
+              href={`/team/${m.slug}/`}
+              title={m.name}
+              subtitle={m.title}
+              image={m.image}
+              variant="person"
+            />
           ))}
         </div>
         <div className="mt-8">
