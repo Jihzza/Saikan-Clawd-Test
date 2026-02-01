@@ -7,18 +7,17 @@ export function MiniCard({
   subtitle,
   image,
   variant = "venture",
+  external,
 }: {
   href: string;
   title: string;
   subtitle?: string;
   image?: string;
   variant?: "venture" | "person";
+  external?: boolean;
 }) {
-  return (
-    <Link
-      href={href}
-      className="group rounded-2xl border border-zinc-800/70 bg-zinc-950/40 p-5 shadow-[0_0_0_1px_rgba(255,255,255,0.04)] transition hover:border-zinc-600"
-    >
+  const inner = (
+    <>
       <div className="flex items-center gap-4">
         <div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-xl border border-zinc-800/60 bg-zinc-950">
           {image ? (
@@ -43,6 +42,23 @@ export function MiniCard({
           {subtitle ? <div className="mt-1 truncate text-xs text-zinc-400">{subtitle}</div> : null}
         </div>
       </div>
+    </>
+  );
+
+  const className =
+    "group rounded-2xl border border-zinc-800/70 bg-zinc-950/40 p-5 shadow-[0_0_0_1px_rgba(255,255,255,0.04)] transition hover:border-zinc-600";
+
+  if (external) {
+    return (
+      <a href={href} target="_blank" rel="noreferrer" className={className}>
+        {inner}
+      </a>
+    );
+  }
+
+  return (
+    <Link href={href} className={className}>
+      {inner}
     </Link>
   );
 }
