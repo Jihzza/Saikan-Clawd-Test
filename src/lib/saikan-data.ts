@@ -7,7 +7,8 @@ export type Venture = {
   status?: "active" | "incubating" | "concept";
   focus?: string[];
   highlights?: string[];
-  link?: { label: string; href: string };
+  // External website to open when clicking the venture tile.
+  website?: string;
 };
 
 export type TeamMember = {
@@ -57,6 +58,7 @@ export const VENTURES: Venture[] = [
       "Structured learning paths",
       "Tools built for consistency",
     ],
+    website: "https://example.com",
   },
   {
     slug: "daniel-cluckins",
@@ -68,6 +70,7 @@ export const VENTURES: Venture[] = [
     status: "active",
     focus: ["Consulting", "Coaching"],
     highlights: ["Actionable sessions", "Practical execution", "Clear next steps"],
+    website: "https://example.com",
   },
   {
     slug: "perspectiv",
@@ -79,6 +82,7 @@ export const VENTURES: Venture[] = [
     status: "incubating",
     focus: ["Automation", "Operations", "B2B"],
     highlights: ["Centralize processes", "Reduce busywork", "Operational clarity"],
+    website: "https://example.com",
   },
   {
     slug: "senti",
@@ -90,6 +94,7 @@ export const VENTURES: Venture[] = [
     status: "concept",
     focus: ["Life admin", "Goals", "Relationships"],
     highlights: ["Personal systems", "Consistency", "Lightweight support"],
+    website: "https://example.com",
   },
   {
     slug: "wingy",
@@ -101,6 +106,7 @@ export const VENTURES: Venture[] = [
     status: "concept",
     focus: ["Dating", "Authenticity"],
     highlights: ["Human-first matching", "Signal over noise", "Real conversations"],
+    website: "https://example.com",
   },
   {
     slug: "clucks",
@@ -113,6 +119,7 @@ export const VENTURES: Venture[] = [
     status: "concept",
     focus: ["Content", "Community"],
     highlights: ["Curated signal", "Better incentives", "Meaningful connections"],
+    website: "https://example.com",
   },
   {
     slug: "cluckers",
@@ -124,6 +131,7 @@ export const VENTURES: Venture[] = [
     status: "concept",
     focus: ["Community", "Events"],
     highlights: ["Real-world activities", "Consistency", "Belonging"],
+    website: "https://example.com",
   },
 ];
 

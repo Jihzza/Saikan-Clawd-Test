@@ -88,7 +88,8 @@ export default function HomePage() {
           {VENTURES.map((v) => (
             <Card
               key={v.slug}
-              href={`/ventures/${v.slug}/`}
+              href={v.website ?? "#"}
+              external
               title={v.name}
               subtitle={v.tagline}
               image={v.image}

@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { TEAM, VENTURES } from "@/lib/saikan-data";
+import { TEAM } from "@/lib/saikan-data";
 
 export const dynamic = "force-static";
 
@@ -13,13 +13,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/contact/`, lastModified: new Date() },
   ];
 
-  const ventureRoutes = VENTURES.map((v) => ({
-    url: `${baseUrl}/ventures/${v.slug}/`,
+  const teamRoutes = TEAM.map((m) => ({
+    url: `${baseUrl}/team/${m.slug}/`,
     lastModified: new Date(),
   }));
 
-  const teamRoutes = TEAM.map((m) => ({
-    url: `${baseUrl}/team/${m.slug}/`, lastModified: new Date() }));
-
-  return [...staticRoutes, ...ventureRoutes, ...teamRoutes];
+  return [...staticRoutes, ...teamRoutes];
 }
