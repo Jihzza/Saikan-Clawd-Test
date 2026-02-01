@@ -1,7 +1,7 @@
 import { Button } from "@/components/site/Button";
-import { Card } from "@/components/site/Card";
 import { Footer } from "@/components/site/Footer";
 import { Header } from "@/components/site/Header";
+import { MiniCard } from "@/components/site/MiniCard";
 import { VENTURES } from "@/lib/saikan-data";
 
 export default function VenturesPage() {
@@ -15,18 +15,16 @@ export default function VenturesPage() {
           value.
         </p>
 
-        <div className="mt-10 grid gap-4 md:grid-cols-2">
+        <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {VENTURES.map((v) => (
-            <Card
+            <MiniCard
               key={v.slug}
               href={`/ventures/${v.slug}/`}
               title={v.name}
               subtitle={v.tagline}
               image={v.image}
               variant="venture"
-            >
-              <span className="text-zinc-400">{v.summary}</span>
-            </Card>
+            />
           ))}
         </div>
 
